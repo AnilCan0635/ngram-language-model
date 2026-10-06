@@ -1,0 +1,11 @@
+# Eclipse & IDE artifacts
+.classpath
+.project
+.settings/
+bin/
+*.class
+
+# OS & Temporary files
+.DS_Store
+Thumbs.db
+*.tmp
